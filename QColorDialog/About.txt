@@ -1,0 +1,1 @@
+It contains the files of QColorDialog Assignment.
